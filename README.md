@@ -13,7 +13,7 @@ The dataset used for this project is a [2016 AirBnB dataset](https://www.kaggle.
 
 This project was guided by four pivotal questions:
 
-Did the total revenue experience growth or decline in the year 2016?
-Which zip code emerged as the top performer in terms of bookings?
-Which bedroom type proved to be the most favored among Airbnb guests?
-When is the optimal period for Airbnb units to experience heightened activity?
+1. Did the total revenue experience growth or decline in the year 2016?
+2. Which zip code emerged as the top performer in terms of bookings?
+3. Which bedroom type proved to be the most favored among Airbnb guests?
+4. When is the optimal period for Airbnb units to experience heightened activity?
