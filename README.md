@@ -1,4 +1,4 @@
-# Airbnb-Market-Analysis-Dashboard
+<h1 style="color:red;">Airbnb-Market-Analysis-Dashboard</h1>
 
 ### Tableau Dashboard developed by [Gaurab Kundu](https://www.linkedin.com/in/gaurab-kundu/)
 
@@ -28,4 +28,6 @@ Here is a glimpse of what the Dashboard looks like.
 <img src="https://github.com/GaurabKundu1/Airbnb-Market-Analysis-Dashboard/assets/86102231/90737516-b190-4c59-b533-5e099b52215f">
 
 To see the Live Dashboard [click here](https://public.tableau.com/views/AirbnbMarketAnalysisDashboard/AirBnbMarketAnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) 
+
+## Key findings
 
