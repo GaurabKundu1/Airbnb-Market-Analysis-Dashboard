@@ -20,3 +20,10 @@ This project was guided by four pivotal questions:
 3. Which bedroom type proved to be the most favored among Airbnb guests?
    
 4. When is the optimal period for Airbnb units to experience heightened activity?
+
+## The Dashboard
+
+Here is a glimpse of what the Dashboard looks like
+
+<img src="https://github.com/GaurabKundu1/Airbnb-Market-Analysis-Dashboard/assets/86102231/90737516-b190-4c59-b533-5e099b52215f">
+
