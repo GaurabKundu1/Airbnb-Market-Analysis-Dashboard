@@ -1,19 +1,19 @@
 # Airbnb Market Analysis Dashboard
 
-### Tableau Dashboard developed by [Gaurab Kundu](https://www.linkedin.com/in/gaurab-kundu/)
+### Tableau Dashboard Developed by [Gaurab Kundu](https://www.linkedin.com/in/gaurab-kundu/)
 
 ## Project Overview 📑
 
-Imagine an AirBnB host who rents their property for customers, requires a detailed analysis of the revenue generated. A detailed analysis of this revenue is essential for several reasons. Not only does it help to track the performance of the property, but it also enables to make informed decisions to optimize rental strategy, offer competitive pricing, and enhance the overall guest experience. As a Data Analyst my task is to analyze the provided data, gain insights and present them to the stake-holder for making improved decisions on which location and the type of rental properties is best to invest in. 
+In this project, we envision an Airbnb host seeking to enhance their revenue and property management strategy. To achieve this, a comprehensive analysis of revenue data becomes imperative. Such an analysis not only enables property performance tracking but also facilitates data-driven decisions for pricing optimization, competitive positioning, and overall guest satisfaction. As a Data Analyst, my role is to explore the provided dataset, extract valuable insights, and present them to stakeholders, empowering them to make informed decisions on property investments.
 
 ## The Airbnb Data 📊
-The dataset used for this project is a [2016 AirBnB dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset) 
+This project utilizes a dataset from the year 2016, sourced from [Airbnb].(https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset) 
 
 ## Questions to Answer 🔍
 
-This project was guided by four pivotal questions:
+The project is driven by four key questions:
 
-1. Did the total revenue experience growth or decline in the year 2016?
+1. Did the total revenue experience growth or decline in 2016?
    
 2. Which zip code emerged as the top performer in terms of bookings?
    
@@ -23,6 +23,8 @@ This project was guided by four pivotal questions:
 
 ## The Dashboard 📈
 
+Our interactive dashboard provides a visual representation of the data and its insights.
+
 Here is a glimpse of what the Dashboard looks like.
 
 <img src="https://github.com/GaurabKundu1/Airbnb-Market-Analysis-Dashboard/assets/86102231/90737516-b190-4c59-b533-5e099b52215f">
@@ -31,15 +33,14 @@ To see the Live Dashboard [click here](https://public.tableau.com/views/AirbnbMa
 
 ## Key Findings 🗝️
 
-- The total revenue surged from $1,012,412 to an impressive $2,110,350 in 2016.
+- Total Revenue Growth: The total revenue soared from $1,012,412 to an impressive $2,110,350 in 2016, indicating substantial growth in the Airbnb business.
 
-- Zip code 98134 secured the top position for the most bookings, indicating its popularity among Airbnb guests.
+- Top-Performing Zip Code: Zip code 98134 emerged as the leader in bookings, underlining its popularity among Airbnb guests. This information can guide future investment decisions.
 
-- While 1-bedroom apartments attracted significant bookings, it's noteworthy that 6-bedroom accommodations commanded the highest price per bedroom. This suggests robust demand for 1-bedroom units, with potential for further exploration.
+- Preferred Bedroom Type: While 1-bedroom apartments attracted a significant number of bookings, it's noteworthy that 6-bedroom accommodations commanded the highest price per bedroom. This suggests robust demand for 1-bedroom units and potential for further exploration in this area.
 
-- The data showed that Airbnb units witnessed peak activity from April through December, providing valuable insights for hosts and property management.
+- Optimal Booking Period: Our data analysis revealed that Airbnb units experienced peak activity from April through December. This insight is valuable for hosts and property management, helping them plan for increased activity during these months.
 
 ## Final Thoughts 💭
 
-Zip code 98134 is the best location to invest in a rental property & units with 1 bedrooms are the top performing assets.
-
+In conclusion, the data strongly suggests that Zip code 98134 is an ideal location for investment in rental properties. Additionally, units with 1 bedroom stand out as the top-performing assets, showcasing their desirability among Airbnb guests. These findings provide a clear path for property investors to make informed decisions and optimize their rental strategies.
