@@ -7,7 +7,7 @@
 In this project, we envision an Airbnb host seeking to enhance their revenue and property management strategy. To achieve this, a comprehensive analysis of revenue data becomes imperative. Such an analysis not only enables property performance tracking but also facilitates data-driven decisions for pricing optimization, competitive positioning, and overall guest satisfaction. As a Data Analyst, my role is to explore the provided dataset, extract valuable insights, and present them to stakeholders, empowering them to make informed decisions on property investments.
 
 ## The Airbnb Data 📊
-This project utilizes a dataset from the year 2016, sourced from [Airbnb].(https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset) 
+This project utilizes a dataset from the year 2016, sourced from [Airbnb](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset) 
 
 ## Questions to Answer 🔍
 
