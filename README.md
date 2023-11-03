@@ -27,7 +27,7 @@ Our interactive dashboard provides a visual representation of the data and its i
 
 Here is a glimpse of what the Dashboard looks like.
 
-<img src="https://github.com/GaurabKundu1/Airbnb-Market-Analysis-Dashboard/assets/86102231/90737516-b190-4c59-b533-5e099b52215f">
+<img src="https://github.com/GaurabKundu1/Airbnb-Market-Analysis-Dashboard/assets/86102231/07d9b772-cf98-49d3-b1e9-c60049872517">
 
 To see the Live Dashboard [click here](https://public.tableau.com/views/AirbnbMarketAnalysisDashboard/AirBnbMarketAnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
